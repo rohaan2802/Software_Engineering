@@ -272,9 +272,9 @@ Software_Engineering/
 
 <img src="assets/screenshots/29_sprint_burndown_chart.png" alt="Sprint 2 Report – Burn-Down Chart" width="100%">
 
-### 30. Final Project – LibraryMS Registration Screen
+### 30. Lecture 11 – Statement Coverage on a Code Snippet
 
-<img src="assets/screenshots/30_library_system_screens.png" alt="Final Project – LibraryMS Registration Screen" width="100%">
+<img src="assets/screenshots/30_statement_coverage_code.png" alt="Lecture 11 – Statement Coverage on a Code Snippet" width="100%">
 
 ## Using the Files
 
